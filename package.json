@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:day1": "npx ts-node src/01",
-    "start:day2": "npx ts-node src/02"
+    "start:day2": "npx ts-node src/02",
+    "start:day3": "npx ts-node src/03",
+    "start:day4": "npx ts-node src/04"
   },
   "repository": {
     "type": "git",
