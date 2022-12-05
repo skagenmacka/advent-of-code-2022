@@ -8,7 +8,8 @@
     "start:day1": "npx ts-node src/01",
     "start:day2": "npx ts-node src/02",
     "start:day3": "npx ts-node src/03",
-    "start:day4": "npx ts-node src/04"
+    "start:day4": "npx ts-node src/04",
+    "start:day5": "npx ts-node src/05"
   },
   "repository": {
     "type": "git",
